@@ -9,5 +9,3 @@
 *NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github.*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObliviousParadigm&layout=compact)
-
-<img src="https://komarev.com/ghpvc/?username=your-github-ObliviousParadigm&color=blue"></img>
